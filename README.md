@@ -1,0 +1,2 @@
+# PyJFuzz
+Python JSON Fuzzer
